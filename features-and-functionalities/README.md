@@ -1,5 +1,3 @@
-[// Backend Features and Functionalities Document]
-
 # Backend Features and Functionalities Document
 
 ## Overview
